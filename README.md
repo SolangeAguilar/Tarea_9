@@ -2,8 +2,11 @@
 
 OBJETIVOS
 
+-Analizar los circuitos RCL, los tipos de resonancias y frecuencias
 
+-Estudiar circuitos RC y RL en paralelo y en serie
 
+-Diferenciar entre los tipos de filtros presentados en la tarea, comprendiendo sus usos
 
 
 
@@ -47,5 +50,7 @@ EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS
 
 
 
-
 CONCLUSIONES
+
+Como conclusión de este informe se puede decir que el analisis de los circuitos RCL es muy importante para el aprendizaje de la materia ya que este nos permite tener una mejor orientación para el analisis de los circuitos que se nos presenten. Para el caso de los filtros, estos seran importantes de distinguir entre los filtros de pasabajas y los filtros de pasaltas, cuales son sus funciones y características y sobretodo sus diferencias entre sí, con la realización de los ejercicios se pudo tener clara esta idea.
+
